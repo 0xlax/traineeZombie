@@ -1,0 +1,19 @@
+{
+  "name": "cryptoxombies",
+  "version": "1.0.0",
+  "description": "\"# traineeZombie\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshithlaxman/traineeZombie.git"
+  },
+  "author": "L H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshithlaxman/traineeZombie/issues"
+  },
+  "homepage": "https://github.com/harshithlaxman/traineeZombie#readme"
+}
